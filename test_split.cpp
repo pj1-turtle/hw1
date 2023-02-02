@@ -13,5 +13,7 @@ g++ split.cpp test_split.cpp -o test_split
 
 int main(int argc, char* argv[])
 {
+  Node* n1;
+  Node* n2; 
 
 }
